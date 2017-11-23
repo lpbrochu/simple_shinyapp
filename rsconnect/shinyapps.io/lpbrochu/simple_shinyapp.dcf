@@ -5,6 +5,6 @@ account: lpbrochu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 239338
-bundleId: 1092479
+bundleId: 1092550
 url: https://lpbrochu.shinyapps.io/simple_shinyapp/
-when: 1511444382.29737
+when: 1511446801.06306
